@@ -1,0 +1,109 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMSIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3ROYW1lIjoiTW9oYW1lZCIsImxhc3ROYW1lIjoiWW91c3NmaSIsImVtYWlsIjoibWVkQGdtYWlsLmNvbSIsInJvbGVzIjpbIlVTRVIiXX0.F0vH8w1zOeIi6HqCwrpexYFu29-rnAjDsxv-YBsJYdY"
+    },
+    {
+      "id": "user2",
+      "password": "",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHQ6Ly9sb2NhbGhvc3Q6ODg4OC9hdXRoIiwibmJmIjoxNTE2MjM5MDIyLCJmaXJzdG5hbWUiOiJNb2hhbWVkIiwibGFzdE5hbWUiOiJZb3Vzc2ZpIiwiZW1haWwiOiJtZWRAZ21haWwuY29tIiwicm9sZXMiOlsiVVNFUiJdfQ.18WSJ8UDM1TQgi37uGA9pgsa9Y6RDsllV76L_ZnCsa0"
+    },
+    {
+      "id": "admin",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER",
+        "ADMIN"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHQ6Ly9sb2NhbGhvc3Q6ODg4OC9hdXRoIiwibmJmIjoxNTE2MjM5MDIyLCJmaXJzdG5hbWUiOiJNb2hhbWVkIiwibGFzdE5hbWUiOiJZb3Vzc2ZpIiwiZW1haWwiOiJtZWRAZ21haWwuY29tIiwicm9sZXMiOlsiVVNFUiIsIkFETUlOIl19.XlfYlW8uFHEfAzUBnHQtgP8wsbEwTa1iawe0fIe5uD4"
+    }
+  ],
+  "products": [
+    {
+      "id": 5,
+      "name": "Smart",
+      "price": "56000",
+      "checked": false
+    },
+    {
+      "name": "fff",
+      "price": "6666",
+      "checked": false,
+      "id": 6
+    },
+    {
+      "name": "fff",
+      "price": "6666",
+      "checked": true,
+      "id": 7
+    },
+    {
+      "name": "dddd",
+      "price": "100",
+      "checked": true,
+      "id": 8
+    },
+    {
+      "id": 9,
+      "name": "Clavier",
+      "price": "5000",
+      "checked": true
+    },
+    {
+      "name": "Samsung",
+      "price": "9000",
+      "checked": true,
+      "id": 10
+    },
+    {
+      "name": "Iphone",
+      "price": "10000",
+      "checked": true,
+      "id": 11
+    },
+    {
+      "name": "mm",
+      "price": 0,
+      "checked": false,
+      "id": 12
+    },
+    {
+      "name": "mmmm",
+      "price": 0,
+      "checked": true,
+      "id": 13
+    },
+    {
+      "name": "1233",
+      "price": 0,
+      "checked": true,
+      "id": 14
+    },
+    {
+      "name": "mm",
+      "price": 0,
+      "checked": false,
+      "id": 15
+    },
+    {
+      "name": "jj",
+      "price": 0,
+      "checked": true,
+      "id": 16
+    },
+    {
+      "name": "Smart phone",
+      "price": "70000",
+      "checked": true,
+      "id": 17
+    }
+  ]
+}
